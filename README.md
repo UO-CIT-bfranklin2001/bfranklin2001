@@ -22,31 +22,31 @@ CIT 281 LIST OF PROJECTS/LABS
         You will be creating a "coinage" code module that is capable of calculating the total value of coin objects. After completing the "coinage" code module             functionality, you will then update the "server" code file as a true Node.js web server using the Fastify package. The updated "server" file will display an         initial web page with web links to to test the "coinage" code. The initial web page will be loaded from a file.
 
 
-Project 4
+- Project 4
 You will be creating a REST API that works with a "data" source of questions and answers. You will create all of the code to work with the data source using a code module, and test the code module code using provided testing code. You will also create a Node.js REST API to handle the GET verb. 
 
 
-Project 5
+- Project 5
 For this project, you will create a Monster Game program using classes. The game will create monsters with initial life values, and minimum life values for the monster to be alive. Once the game is running, each monster's life will be drained by a random amount, and the game will continue until all of the monsters have died. The game will include a delay before each life drain.
 
 
-Project 6
+- Project 6
 You will be creating three classes. The first class is the Shape class that will serve as a base class for the other two classes. The second class is the Rectangle class that will inherit from Shape class. A class that inherits from another class can be called the child class of the base, or parent, class. The third class is the Triangle class that also will inherit from the Shape class.
 
 The base Shape class will provide the common functionality of a method that returns the perimeter value. Each of the other two classes will provide their own versions of a method that returns the area value. 
 
 
-Lab 1
+- Lab 1
 Lab goals and outcomes:
 
-Part 1: Install and setup your personal computer with the software tools required for this course
-Part 2: Practice using software tools
-Part 3: Practice terminal or shell commands
-Part 4: Practice keyboard shortcuts
-Part 5: Create your first Node.js server-side JavaScript file
+    - Part 1: Install and setup your personal computer with the software tools required for this course
+    - Part 2: Practice using software tools
+    - Part 3: Practice terminal or shell commands
+    - Part 4: Practice keyboard shortcuts
+    - Part 5: Create your first Node.js server-side JavaScript file
 
 
-Lab 2
+- Lab 2
 Lab goals and outcomes:
 
 Use CLI commands for directory and file manipulation
@@ -63,7 +63,7 @@ Part 8: Branch
 Part 9: Repo files
 
 
-Lab 3
+- Lab 3
 Lab goals and outcomes:
 
 Practice refactoring JavaScript code to use more modern syntax
@@ -76,7 +76,7 @@ Practice importing a Node.js compatible code module using require
 Examine code using the spread operator
 
 
-Lab 4
+- Lab 4
 Lab goals and outcomes:
 
 Part 1: Create initial Fastify Node.js web server
@@ -87,7 +87,7 @@ Part 5: Fix MIME error, test, and commit
 Part 6: Add a second route with query parameters, test, and commit
 
 
-Lab 5
+- Lab 5
 Lab goals and outcomes:
 
 Part 1: Download and install Postman
@@ -99,7 +99,7 @@ Part 6: Add POST handling to server application and respond with JSON
 Part 7: Use Postman and POST request
 
 
-Lab 6
+- Lab 6
 Lab goals and outcomes:
 
 Part 1: Join GitHub and work through Introduction to GitHub course
@@ -111,7 +111,7 @@ Part 6: Add at least two more books to the library
 Part 7: Add ISBN and a delete book method
 
 
-Lab 7
+- Lab 7
 Lab goals and outcomes:
 
 Part 1: Create your own GitHub organization for the CIT Minor
@@ -122,7 +122,7 @@ Part 5: Update and commit lab JavaScript file to practice with error handling
 Part 6: Push your changes to GitHub
 
 
-Lab 8
+- Lab 8
 Lab goals and outcomes:
 
 Part 1: Create lab file and initialize Node.js folder
@@ -132,7 +132,7 @@ Part 4: Add fastify and node-fetch require statements
 Part 5: Fetch JSONPlaceholder data
 
 
-Lab 9
+- Lab 9
 Lab goals and outcomes:
 
 Part 1: Create Learning Lab course/repo within your GitHub account
