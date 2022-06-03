@@ -2,7 +2,6 @@ CIT 281 LIST OF PROJECTS/LABS
 
 Project 1
     Project elements:
-
         Use the command line interface (CLI) of your operating system to create a number of folders
         List the folders in a tree-like structure
         Use the ping command, and practice using the break keyboard sequence
@@ -11,17 +10,16 @@ Project 1
 
 
 Project 2
-Project elements:
-
-Use the command line interface (CLI) of your operating system to create and work with a git repository (repo)
-Refactor the JavaScript program from the previous project to practice using git and practice refactoring
-Use git via VSCode
-Create and use a .gitignore file
-Diff split screen
+    Project elements:
+        Use the command line interface (CLI) of your operating system to create and work with a git repository (repo)
+        Refactor the JavaScript program from the previous project to practice using git and practice refactoring
+        Use git via VSCode
+        Create and use a .gitignore file
+        Diff split screen
 
 
 Project 3
-You will be creating a "coinage" code module that is capable of calculating the total value of coin objects. After completing the "coinage" code module functionality, you will then update the "server" code file as a true Node.js web server using the Fastify package. The updated "server" file will display an initial web page with web links to to test the "coinage" code. The initial web page will be loaded from a file.
+        You will be creating a "coinage" code module that is capable of calculating the total value of coin objects. After completing the "coinage" code module             functionality, you will then update the "server" code file as a true Node.js web server using the Fastify package. The updated "server" file will display an         initial web page with web links to to test the "coinage" code. The initial web page will be loaded from a file.
 
 
 Project 4
