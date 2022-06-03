@@ -1,7 +1,7 @@
 CIT 281 LIST OF PROJECTS/LABS
 
 Project 1
-Project elements:
+-Project elements:
 
 Use the command line interface (CLI) of your operating system to create a number of folders
 List the folders in a tree-like structure
